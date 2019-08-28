@@ -3,3 +3,7 @@ h3 {
   color: red;
   float: bottom right;
 }
+
+h1 {
+  display: none;
+}
